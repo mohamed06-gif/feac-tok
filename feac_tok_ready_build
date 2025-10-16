@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "initial feac-tok version"
+git branch -M main
+git remote add origin https://github.com/<feac-tok_GitHub>/feac-tok.git
+git push -u origin main
